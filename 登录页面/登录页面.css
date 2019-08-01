@@ -1,0 +1,42 @@
+body{
+    background-image: url(12.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+
+}
+.index_01{
+    width:  405px;
+    height: 277px;
+    background-color: black;
+    float: right;
+    margin-top: 90px;
+}
+#i_01{
+    width: 300px;
+    margin: 18px;
+    height: 46px;
+
+}
+#i_02{
+    width: 90px;
+    height: 30px;
+    margin-left:17px; 
+
+}
+#p_01{
+    font-size: 27px;
+    margin-left: 115px;
+}
+#a_1 a{
+    float: right;
+    margin-right: 82px;
+    margin-top: 10px;
+}
+.index_02 img{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-top: 85px; 
+}
